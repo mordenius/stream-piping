@@ -1,0 +1,25 @@
+{
+  "name": "stream-piping",
+  "version": "0.0.1-alpha",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mordenius/stream-piping.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mordenius/stream-piping/issues"
+  },
+  "homepage": "https://github.com/mordenius/stream-piping#readme",
+  "description": ""
+}
